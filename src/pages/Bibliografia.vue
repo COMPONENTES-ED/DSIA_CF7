@@ -30,8 +30,7 @@ export default {
       {
         referencia:
           'Cochran, W. G. (1980). Técnicas de muestreo (3.ª ed.). México: CECSA.',
-        link:
-          'https://es.z-lib.gs/book/22432056/6c4faa/técnicas-de-muestreo.html?dsource=recommend',
+        link: '',
       },
       {
         referencia:

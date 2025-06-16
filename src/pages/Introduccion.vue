@@ -76,7 +76,7 @@
       </div>
       <h4 class="mb-4">
         ¡Te damos una maravillosa bienvenida a las fuentes y técnicas de
-        recolección de datos para análisis!
+        recolección de datos!
       </h4>
       <div class="row justify-content-center align-items-center">
         <div class="col-lg-12">
@@ -85,7 +85,7 @@
               <iframe
                 width="1236"
                 height="695"
-                src="https://www.youtube.com/embed/gYb2piVtFHY?si=JrOknn-QVhU1Ho3g"
+                src="https://www.youtube.com/embed/_BFoc5ZuhfY?si=7DtPltfXWw6XpWkq"
                 title="Fuentes y técnicas de recolección de datos para análisis"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -93,6 +93,9 @@
                 allowfullscreen="allowfullscreen"
               ></iframe>
             </div>
+            <figcaption>
+              Video. Fuentes y técnicas de recolección de datos para análisis
+            </figcaption>
           </figure>
         </div>
       </div>

@@ -32,8 +32,8 @@
               el número de tiradas de un dado en un experimento).
             </p>
             <p>
-              <b>Ejemplo:</b> si se desea investigar el comportamiento de compra
-              de todos los consumidores de un país, todos los consumidores
+              Ejemplo: si se desea investigar el comportamiento de compra de
+              todos los consumidores de un país, todos los consumidores
               registrados conforman la población.
             </p>
           </div>
@@ -54,8 +54,13 @@
               adecuada debe reflejar las características de la población para
               que los resultados puedan ser generalizados.
             </p>
-            <br />
-            <p>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-center align-items-center">
+        <div class="col-lg-10">
+          <div class="bg18 p-4 brad h-100">
+            <p class="mb-0">
               <b>Ejemplo</b>: en un estudio sobre el comportamiento de compra,
               un grupo de 1,000 consumidores seleccionados al azar podría ser la
               muestra de una población de millones de consumidores.
@@ -63,7 +68,6 @@
           </div>
         </div>
       </div>
-
       <Separador> </Separador>
       <div id="t_2_2" class="titulo-segundo color-acento-botones">
         <h2>2.2 Criterios para definir una muestra representativa</h2>
@@ -260,13 +264,13 @@
               Supongamos que tenemos una población de 500 estudiantes en una
               universidad y queremos estudiar su rendimiento académico.
               Seleccionamos una muestra de 50 estudiantes utilizando un muestreo
-              estratificado por nivel educativo (pregrado y posgrado)
+              estratificado por nivel educativo (pregado y posgrado)
             </p>
             <ul class="lista-ul--color fa-ul">
               <li class="mb-3">
                 <i class="fas fa-check v1"></i
                 ><span
-                  >La población está compuesta por 400 estudiantes de pregrado y
+                  >La población está compuesta por 400 estudiantes de pregado y
                   100 estudiantes de posgrado.</span
                 >
               </li>
